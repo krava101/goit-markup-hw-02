@@ -5,3 +5,7 @@
 .team-list li {
   background-color: var(--white);
 }
+
+.team-list p{
+  text-align: center;
+}
