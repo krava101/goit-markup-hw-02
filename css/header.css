@@ -1,0 +1,16 @@
+.header a {
+  text-decoration: none;
+  color: var(--navy-blue);
+}
+
+.logo span {
+  color: var(--iris);
+}
+
+.header_nav_list a {
+  font-weight: 500;
+}
+
+.header_address_list a {
+  color: var(--slate);
+}
