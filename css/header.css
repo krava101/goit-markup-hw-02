@@ -3,14 +3,19 @@
   color: var(--navy-blue);
 }
 
+.header a:hover, .header a:focus{
+  color: var(--ocean);
+}
+
 .logo span {
   color: var(--iris);
 }
 
-.header_nav_list a {
+.header-nav-list a {
   font-weight: 500;
 }
 
-.header_address_list a {
+.header-address-list a {
   color: var(--slate);
+  font-style: normal;
 }

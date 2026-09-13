@@ -31,6 +31,10 @@ button {
   cursor: pointer;
 }
 
+address {
+  font-style: normal;
+}
+
 .logo {
   font-size: 18px;
   font-weight: 700;
@@ -39,28 +43,31 @@ button {
   text-transform: uppercase;
 }
 
-.header_medium {
+.header-medium {
   color: var(--navy-blue);
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  text-align: center;
 }
 
-.header_small {
+.header-small {
   color: var(--navy-blue);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 
-.btn_txt {
+.btn-txt {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
 
-.txt_small {
+.txt-small {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
