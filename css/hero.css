@@ -11,7 +11,12 @@
   text-align: center;
 }
 
-.hero_btn{
+.hero_btn {
   background-color: var(--iris);
   color: var(--white);
+}
+
+.hero_btn:hover,
+.hero_btn:focus {
+  background-color: var(--ocean);
 }
